@@ -69,7 +69,7 @@ nav li{
 /* NOSSOS PRODUTOS*/
 .nossosprodutos{
     padding: 10%;
-    background: linear-gradient(#669b59, rgb(80, 180, 96));
+    background: linear-gradient(#59819c, rgb(80, 180, 96));
 }
 .div_nossosprodutos{
     width: 40%;
@@ -109,10 +109,18 @@ footer{
     background: url("rodape.jpg");
     background-size: cover;
     background-position: center;
-    background-color: rgba(33, 131, 58, 0.6);
+    background-color: rgba(33, 72, 131, 0.6);
     background-blend-mode: darken;
     
 }
 .logo_footer{
     width: 10%;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+.logo_footer{
+    width: 40%;
+    padding-left: 120%;
 }
